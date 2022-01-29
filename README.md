@@ -6,3 +6,6 @@
 - Classifies books.
 - Whishlist
 - CLI commands.
+
+---
+- Yes, another features will be publish and feeded here in your release notes.
