@@ -6,7 +6,8 @@ func menu() {
 	fmt.Println("🕸 Pick what kind of job would you like to perform:")
 	options := map[int]string{
 		1: "Record Book",
-		2: "Delete Book"}
+		2: "Delete Book"
+	}
 
 	for option := range options {
 		fmt.Printf(" OPTION: [%d] ▶️ %s\n", option, options[option])
